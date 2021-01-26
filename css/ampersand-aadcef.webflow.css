@@ -31,10 +31,12 @@
   -webkit-align-items: center;
   -ms-flex-align: center;
   align-items: center;
+  background-color: #1f2023;
 }
 
 .image {
   position: absolute;
+  color: #fff;
 }
 
 .image-2 {
@@ -50,7 +52,10 @@
 .text-block {
   position: relative;
   z-index: 1;
-  font-family: 'Droid Sans', sans-serif;
-  font-size: 70px;
+  font-family: 'DM Sans', sans-serif;
+  color: #f7f8f8;
+  font-size: 56px;
   font-weight: 700;
+  text-align: center;
 }
+
